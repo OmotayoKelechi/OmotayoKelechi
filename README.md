@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Broda Barnabas</h1>
+<h1 align="center">Hey there! 👋 I'm Omotayo Kelechi Barnabas</h1>
 
 <p align="center">
   💻 Dev tinkerer | 🤖 Bot builder | ☁️ Exploring the cloud one line at a time
