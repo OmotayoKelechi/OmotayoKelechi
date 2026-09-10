@@ -37,7 +37,7 @@ A clean link between GitHub repositories and WhatsApp — for repo monitoring, w
 
 Want to work on something cool? Or just curious about what I'm building?
 
-🔗 GitHub: [@Brodabarnabas](https://github.com/BrodaBarnabas)
+🔗 GitHub: [@OmotayoKelechi](https://github.com/OmotayoKelechi)
 
 ---
 
